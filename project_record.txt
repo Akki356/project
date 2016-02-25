@@ -1,0 +1,8 @@
+\...This is the project progress log file.../
+
+`Date 25-2-2015
+git clone from git://agit://anongit.kde.org/umbrello
+install Qt 
+setup Qt
+Read about .xmi files and Metadata Language
+
