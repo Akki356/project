@@ -1,0 +1,2 @@
+SKIP /umbrello/headings/|/umbrello/_unused/
+SKIP lib/cppparser/keywords.h
